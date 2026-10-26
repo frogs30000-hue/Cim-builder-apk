@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CiM Builder Test</string>
+    <string name="main_message">CiM Builder работает!</string>
+</resources>
